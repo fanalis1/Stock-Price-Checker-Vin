@@ -13,6 +13,7 @@ dependencies:
 packages:
   /abab/1.0.4:
     dev: false
+*
     resolution:
       integrity: sha1-X6rZwsB/YN12dw9xzwJbYqY8/U4=
   /accepts/1.3.5:
